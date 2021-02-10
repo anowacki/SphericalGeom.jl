@@ -1,7 +1,10 @@
 name = "SphericalGeom"
 uuid = "5f599dd1-8cb9-41bc-8d98-8c6275c89b8c"
-authors = ["Andy Nowacki <a.nowacki@leeds.ac.uk> and contributors"]
+authors = ["Andy Nowacki <a.nowacki@leeds.ac.uk>"]
 version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
 julia = "1"
